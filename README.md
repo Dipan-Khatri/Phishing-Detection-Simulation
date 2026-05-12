@@ -145,6 +145,17 @@ If this were a real-world environment, the SOC team would:
 - Threat hunting mindset
 - Incident response analysis
 
+  ---
+
+# 📚 MITRE ATT&CK Mapping
+
+| Technique | Description |
+|---|---|
+| T1566 | Phishing |
+| T1078 | Valid Accounts |
+| T1114 | Email Collection |
+| T1098 | Account Manipulation |
+
 ---
 
 # 🌍 Real-World Relevance
